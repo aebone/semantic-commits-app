@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-    repositoryUrl: "https://github.com/aebone/semantic-commits-app.git"
 
 jobs:
   build-and-deploy:
