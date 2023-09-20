@@ -12,7 +12,6 @@
     "commit": "git-cz"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
   "author": "",
